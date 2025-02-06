@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"build:reexports": "webpack build -c ./reexports/webpack.config.js"
+	},
+	"dependencies": {
+		"webpack": "^5.97.1",
+		"webpack-cli": "^6.0.1"
+	}
+}
